@@ -6,6 +6,10 @@ Software Engineering student building tools in my freetime.
 
 ## My Favorite Projects
 
+### [HousingStudio](https://housingstudio.app)
+Visual Block based editing tool for Hypixel Housing. It's free
+to use and provides a easier way to code on your Games.
+
 ### [HStats](https://hstats.dev/)
 Open source lightweight analytics platform inspired by bStats.  
 Built for Hytale mod developers who want clean, embeddable statistics.
